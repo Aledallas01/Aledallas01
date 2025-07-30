@@ -1,16 +1,71 @@
-## Hi there 👋
+# Ciao, sono Alessandro Zanetti 👋
 
-<!--
-**Aledallas01/Aledallas01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Studente e programmatore appassionato di informatica, Arduino, Sviluppo Web e Gaming.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Chi sono
+
+- **Nome:** Alessandro Zanetti
+- **Nickname:** Aledallas / Aledallas01
+- **Ruolo:** Studente & Programmatore
+- **Località:** Italia
+- **Passioni:** Coding, elettronica, gaming, tech in generale
+
+---
+
+## 🛠️ Competenze tecniche
+
+### Linguaggi di programmazione
+
+- **Python** – Siti Web(flask), Bot Discord, Intelligenza Artificiale
+- **C / C++ (Arduino)** – Progetti Arduino uniti alle Stampa 3D
+- **HTML & CSS** – sviluppo front-end
+- **React, TailWind** – Creazione di Siti Web moderni
+
+
+### Ambienti di sviluppo
+
+- **VSCode** – editor principale
+- **Arduino IDE** – programmazione microcontrollori
+
+
+### Controllo versione & Collaborazione
+
+- **Git & GitHub** – versionamento, collaborazione e gestione codice  
+
+
+### Conoscenze extra
+
+- Uso di Intelligenza Artificiale
+- C++ (in studio)
+
+---
+
+## 💻 Progetti & interessi
+
+- [MaracujaRP](maracuja-rp.vercel.app)
+- [61MetriQuadri](61mq.vercel.app) (work in progress)
+
+---
+
+## 🎯 Obiettivi personali
+
+- Approfondire Python avanzato
+- Approfondire framework web come Flask
+- Sviluppare soluzioni embedded più complesse con Arduino
+- Contribuire a progetti open source e collaborativi
+
+---
+
+## 📚 Studio attuale
+
+- Python avanzato
+- Sviluppo web full-stack
+- C++
+
+---
+
+## 📫 Contatti
+
+- GitHub: [Aledallas01](https://github.com/Aledallas01)
